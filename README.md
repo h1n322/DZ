@@ -1,4 +1,4 @@
-# OpenRouter AI Chatbot 🤖
+# OpenRouter AI Chatbot 
 
 Цей проєкт є виконанням Домашнього завдання 18. Це вебзастосунок на базі Streamlit, який працює з моделями через OpenRouter REST API.
 
